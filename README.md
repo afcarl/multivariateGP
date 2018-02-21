@@ -1,0 +1,1 @@
+This repository contains the code to model stellar activity using multivariate Gaussian Process (GP) regression. Specifically, it takes (simulated) spectra of stars, computes the Principal Components of the spectra, and then models them in a Linear Model of Coregionalization (LMC) framework.
